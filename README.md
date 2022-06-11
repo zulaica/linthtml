@@ -26,7 +26,7 @@ You should then init a configuration file:
 npx linthtml --init
 ```
 
-This will generate a file `.linthtmlrc` in the current directory.
+This will generate a configuration file in the current directory.
 
 After that, you can run LintHTML on any file or directory like this:
 
