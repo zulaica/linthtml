@@ -2,7 +2,7 @@
 
 _⚠️ this is only for the new [config format](https://github.com/linthtml/linthtml/releases#new-config-file-format) introduced in the 0.3.0_
 
-LintHTML use [cosmiconfig](https://davidtheclark/cosmiconfig) to find and load your configuration. It will looks for the following possible sources:
+LintHTML use [cosmiconfig](https://github.com/davidtheclark/cosmiconfig) to find and load your configuration. It will looks for the following possible sources:
 
 - a `linthtmlConfig` property in `package.json`
 - a `.linthtmlrc`, `.linthtmlrc.json` or `.linthtmlrc.yml` file
